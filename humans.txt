@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    max mustermann -- developer -- @max
     <name> -- <role> -- <twitter>
 
 # THANKS
