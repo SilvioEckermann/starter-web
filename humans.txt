@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
+    Max Fenton -- Developer -- @maxfenton
     max mustermann -- developer -- @max
     <name> -- <role> -- <twitter>
 
