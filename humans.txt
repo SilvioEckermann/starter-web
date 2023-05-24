@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    Max Fenton -- Developer -- @maxfenton
     <name> -- <role> -- <twitter>
 
 # THANKS
